@@ -9,6 +9,7 @@ How to use:
 - start the code.
 
 output example :
+
 {
     "Judul": "Pandangan Tiga Paslon Capres-Cawapres Soal Kebijakan Undang-Undang Anti Deforestasi EUDR",
     "link photo": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/anies-prabs-ganjar-ss.jpg",
